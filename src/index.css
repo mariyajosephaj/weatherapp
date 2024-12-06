@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Merriweather", serif;
+}
+.app{
+  min-height: 100vh;
+  display: grid;
+  /* background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%); */
+  
+  background-image: linear-gradient(to right, #74ebd5 0%, #9face6 100%);
+  /* background-repeat:no-repeat; */
+  
+}
+.weatherDiv{
+  background-image: linear-gradient(to top, #9795f0 0%, #fbc8d4 100%);
+  
+}
